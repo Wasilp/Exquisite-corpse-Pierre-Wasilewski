@@ -11,3 +11,14 @@ More seriously, i would like to get some experience in Belgium then move to Japa
 
 ### My idea for the group picture ?
 Well as we are all in remote we could make a group picture on google meet and it
+
+
+# Axelle
+![](https://image.prntscr.com/image/o94nV66ISh2itw686BblkQ.png)
+
+### My career path
+
+I studied computer science and worked as a developer for 8 years.
+4 years ago I decided to stop developing in c#.net. Since then I am unemployed.
+After becode, I hope to find a job as a data analyst or maybe as an ML engineer.
+Github : [GodIsADJ](https://github.com/GodIsADJ)
